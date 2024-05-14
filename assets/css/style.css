@@ -262,7 +262,7 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
-  filter: brightness(1);
+  filter: brightness(100%);
 }
 
 #hero h1 {
