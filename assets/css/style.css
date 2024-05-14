@@ -243,7 +243,6 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
-  filter: brightness(50%);
 }
 
 
@@ -262,7 +261,6 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
-  filter: brightness(100%);
 }
 
 #hero h1 {
