@@ -640,6 +640,11 @@ section {
   width: 100%;
 }
 
+.rounded_border{
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #00000063;
+}
+
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
